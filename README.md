@@ -1,5 +1,5 @@
 # About This Repository: 
-This repository contains the files of the given assignment on JUnit. Only the required files and folders are here. Please find the codes in the src/test folder. The JUnitTests file is used to create the tests. The Support file is mainly scrolling down page. In the src/resources folder you can find the image file to be uploaded in first test and the text file contains the scrapped data from the third test.
+This repository contains the files of the given assignment on JUnit. Only the required files and folders are here. Please find the codes in the src/test/java folder. The JUnitTests file is used to create the tests. The Support file is mainly scrolling down page. In the src/test/resources folder you can find the image file to be uploaded in first test and the text file contains the scrapped data from the third test.
 
 # About This Assignment:
 In this assignment, there are mainly three tasks. The first test task is to automate a webform where input must be given to all the fields, all checkmarks must be checked, files under 2 mb must be uploaded. And then it should be submitted. And lastly assertions should be made whether the submission was successful or not. 
